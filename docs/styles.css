@@ -1,0 +1,45 @@
+.menu {
+    background-color: #f1f1f1;
+    overflow: hidden;
+  }
+
+  .menu a {
+    float: left;
+    display: block;
+    color: #333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  .menu a:hover {
+    background-color: #ddd;
+  }
+
+
+  .header {
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5d7144b99b503d0001bd2912/1678724650722-GMW3HRXVKB9DNTT2QERK/2019-purple-haze-2.jpg?format=1500w) ;
+    background-position: center;
+    height: 600px;
+    width: 10000px;
+    text-align: center;
+    color: white;
+    padding: 50px;
+  }
+
+  .header h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+
+  .header p {
+    font-size: 24px;
+  }
+
+.about {
+    display: flex;
+}
+.about-text
+{
+    font-size: large;
+}
